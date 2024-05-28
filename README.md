@@ -48,6 +48,9 @@ split/
       └── ...
 ```
 
+## Training Procedure
+The epoch, hyperparameter trials and hyperparameters can be tweaked freely. Callbacks are currently implemented where the model with highest validation accuracy is saved locally. History is also saved locally for plotting train and validation graphs.
+
 ## Usage
 1. Clone the repository:
 ```
