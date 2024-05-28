@@ -1,10 +1,9 @@
 # Album Cover Image Classifier
 
-<p align="center">
-  <img width="284" alt="image" src="https://github.com/pandrum/album-cover-image-classifier/assets/38797025/052d7dc2-8a47-4c2a-bbc9-e286936fe526">
-  <img width="284" alt="image" src="https://github.com/pandrum/album-cover-image-classifier/assets/38797025/0e98854a-3a29-4ac1-934c-aa04ba877751">
-  <img width="284" alt="image" src="https://github.com/pandrum/album-cover-image-classifier/assets/38797025/53af9171-ab8a-4809-b7c5-3c8e81665896">
-</p>
+<img width="284" alt="image" src="https://github.com/pandrum/album-cover-image-classifier/assets/38797025/052d7dc2-8a47-4c2a-bbc9-e286936fe526">
+<img width="284" alt="image" src="https://github.com/pandrum/album-cover-image-classifier/assets/38797025/0e98854a-3a29-4ac1-934c-aa04ba877751">
+<img width="284" alt="image" src="https://github.com/pandrum/album-cover-image-classifier/assets/38797025/53af9171-ab8a-4809-b7c5-3c8e81665896">
+
 
 This repository contains a project for classifying album cover images using deep learning. Two models are being used, ResNet and EfficientNet. Both machine learning files are identical except for the model configuration. The model import is different, and image rescaling is omitted in the EfficientNet file. 
 
