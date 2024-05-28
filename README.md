@@ -31,7 +31,7 @@ pip install numpy tensorflow pillow seaborn scikit-learn matplotlib keras-tuner
 ```
 
 ## Data Setup
-Ensure your dataset is organized in the following directory structure. This can be achieved with the [split-folders](https://pypi.org/project/split-folders/) tool:
+Ensure your dataset of images is organized in the following directory structure. This can be achieved with the [split-folders](https://pypi.org/project/split-folders/) tool:
 ```
 split/
   ├── train/
