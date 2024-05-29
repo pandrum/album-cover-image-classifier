@@ -4,7 +4,7 @@ This repository contains a project for classifying album cover images using deep
 
 The models are built using TensorFlow and Keras. Both models are leveraging pre-trained weights on the ImageNet dataset. 
 
-The data that was being used for the two machine learning models can be recreated from this repository: [EquiGen Album Cover Dataset](https://github.com/pandrum/equigen/blob/main/README.md).
+The data that was being used for the two machine learning models in this project can be recreated from this repository: [EquiGen Album Cover Dataset](https://github.com/pandrum/equigen/blob/main/README.md).
 
 The dataset is split into a 70% training, 15% validation, and 15% test set. Split is done with [split-folders](https://pypi.org/project/split-folders/).
 
