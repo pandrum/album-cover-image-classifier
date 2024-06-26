@@ -10,7 +10,7 @@ The dataset is split into a 70% training, 15% validation, and 15% test set. Spli
 
 Hyperparameter tuning is performed using RandomSearch with Keras Tuner.
 
-## Requirments
+## Requirements
 ```
 numpy
 tensorflow
